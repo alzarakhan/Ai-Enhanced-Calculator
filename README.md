@@ -1,10 +1,5 @@
-Absolutely! Here’s a full **README.md** in one block, ready to copy and paste:
 
 ````markdown
-# AI Calculator
-
-## Overview
-The **AI Calculator** is an intelligent tool designed to perform complex arithmetic operations and provide step-by-step solutions. Built using AI techniques, it demonstrates practical applications of AI in software development and problem-solving.
 
 ## Features
 - Performs addition, subtraction, multiplication, and division.
